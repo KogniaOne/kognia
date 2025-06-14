@@ -1,0 +1,2 @@
+# kognia
+Projeto kognia whitelabel
